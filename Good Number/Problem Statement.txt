@@ -1,4 +1,4 @@
-Problem statement
+Problem statement :
 You are given an integer ‘N’, you need to find whether it’s a good number or not.
 
 We start from the integer ‘N’ and keep replacing the current number with the sum of squares of its digits, we keep repeating this process until we will the number 1. A number that generates the 1 after finite repetition of the above process is called a good number.
