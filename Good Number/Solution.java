@@ -2,9 +2,7 @@ import java.util.*;
 public class Solution {
     public static boolean isGoodNumber(int n) {
         if(n==1) return true;
-        
-        Stack<Integer> s=new Stack<>();
-        
+        Stack<Integer> s=new Stack<>();     
         while(n!=1){
             if(!s.contains(n)){
                 s.push(n);
