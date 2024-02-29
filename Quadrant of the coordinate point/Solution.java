@@ -20,8 +20,8 @@ class Solution {
 		else if (x == 0 && y == 0)
 			System.out.println("Origin");
 		else if (x > 0 && y == 0)
-			System.out.println("x axis");
+			System.out.println("x-axis");
 		else 
-			System.out.println("y axis");
+			System.out.println("y-axis");
 	}
 }
