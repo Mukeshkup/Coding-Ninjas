@@ -13,6 +13,7 @@ public class Solution {
         }
         return true;
     }
+    
     private static int func(int n){
         int num=0;
         while(n>0){
